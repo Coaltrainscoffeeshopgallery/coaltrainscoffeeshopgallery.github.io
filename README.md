@@ -1,5 +1,6 @@
 # coaltrainscoffeeshopgallery.github.io
-Website for Coaltrains Coffee Shop and Gallery
+Welcome one and all to the fabulous, magical website of the Coaltrains Coffee Shop Located at Barry Train station!
 
+Watch this space as the website gets built and updated into a coffee and jazz filled wonderland.
 
-This is a test push to make sure I can upload to the repository
+Coaltrain's Coffee Shop Gallery 'we're all on a journey...
