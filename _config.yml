@@ -5,7 +5,7 @@ url: https://coaltrainscoffeeshopgallery.co.uk/
 description: "Coaltrains Coffee Shop and Gallery, located on Barry Train Station, CF62 7AE"
 keywords: "Coaltrains, Coffee, Shop, Gallery, Barry, Train, Station, Trainstation, CF62 7AE, CF627AE, Jazz, Music"
 skills: "We're all on a journey"
-meta_author: LastName FirstName
+meta_author: Underdown Ieuan
 
 
 
@@ -27,35 +27,27 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: 5A5E5A #80B3FF
+  primary-rgb: "90,94,90" #"128,179,255"
+  secondary: 000000 #FD6E8A
+  secondary-dark: 171717 #A2122F
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
-  credits: Credits
+  copyright: Coaltrains Coffee Shop and Gallery
+  location: Barry Train Station
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://www.facebook.com/coaltrainscoffeeshop/?locale=en_GB
+  - title: instagram
+    url: https://www.instagram.com/coaltrains_coffee_shop_gallery/
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Barry Train Station
+  - line: Broad St, Barry, CF62 7AE
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
