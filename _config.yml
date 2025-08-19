@@ -1,11 +1,13 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
+title: Coaltrains Coffee Shop and Gallery
+email: coaltrainscoffeeshopgallery@gmail.com
+url: https://coaltrainscoffeeshopgallery.co.uk/
+description: "Coaltrains Coffee Shop and Gallery, located on Barry Train Station, CF62 7AE"
+keywords: "Coaltrains, Coffee, Shop, Gallery, Barry, Train, Station, Trainstation, CF62 7AE, CF627AE, Jazz, Music"
 skills: "Web Developer - Graphic Artist - User Experience Designer"
 meta_author: LastName FirstName
+
+
 
 # Google webmaster tools
 google_verify:
