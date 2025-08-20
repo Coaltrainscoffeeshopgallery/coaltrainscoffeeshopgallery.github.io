@@ -11,12 +11,13 @@
       {% for post in site.categories.navigation %}
       <div class="portfolio-flex-item portfolio-item">
           <div class="caption">
-            <div class="caption-content">
+            <!--<div class="caption-content">
               <i class="fa fa-search-plus fa-3x"></i>
-            </div>
+            </div>-->
           </div>
+          <a href="{{post.link}}">
           <img src="img/navigation/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
-          <a href="{{post.link}}"></a>
+          </a>
       </div>
       {% endfor %}
     </div>
