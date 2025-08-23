@@ -2,6 +2,6 @@
 layout: default
 img: events.jpg
 alt: image-alt
-link: post_layout.html
+link: {% link post_grid.html %}
 client: Start Bootstrap
 ---
