@@ -1,6 +1,5 @@
 ---
 layout: default
-modal-id: 6
 date: 2014-07-13
 img: Trombone Fish.jpg
 alt: image-alt
