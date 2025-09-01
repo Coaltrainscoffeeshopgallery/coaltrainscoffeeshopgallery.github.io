@@ -1,0 +1,11 @@
+---
+layout: default
+title: BETO BETO BAND live
+modal-id: 7
+date: 2025-08-28
+img: BETO.jpg
+alt: image-alt
+project-date: 28th August 2025
+category: events
+description: Join us at Groove Station Live with BETO BETO BAND who’ll be bringing their unique style of shimmering PSYCH-POP to Coaltrain’s for the fisrt time! All welcome. Free entry though donations to the artists involved is much appreciated and helps keep our live events going. Hope to see you there.
+---

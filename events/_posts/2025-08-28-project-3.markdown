@@ -1,0 +1,11 @@
+---
+layout: default
+title: Dan Edgecombe & Charlie Herbert Duo live
+modal-id: 3
+date: 2025-08-30
+img: Dan.jpg
+alt: image-alt
+project-date: 30th August 2025
+category: events
+description: Dan Edgecombe and Charlie Herbert Duo Guitarist Dan Edgecombe and Pianist Charlie Herbert will be playing a selection of their favourite Jazz standards and songs from the American songbook. All welcome, free entry though donations to musicians is much appreciated an helps keeps our events alive. Hope to see you there
+---

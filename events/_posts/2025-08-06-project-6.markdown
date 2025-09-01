@@ -1,0 +1,11 @@
+---
+layout: default
+title: The Tremolo Shakers Live
+modal-id: 6
+date: 2025-10-02
+img: Tremolo.jpg
+alt: image-alt
+project-date: 2nd October 2025
+category: events
+description: Join us for the return of the mighty Tremolo Shakers who’ll be playing a fun mix of Rock n Roll and country classics with a few surprises thrown in for your listening pleasure. They always put on a fun rockin show that’s full to the brim with energy and spirit. All welcome. Free entry though donation to the musicians involved is much appreciated and helps keep our live events going. Hope to see you there.
+---

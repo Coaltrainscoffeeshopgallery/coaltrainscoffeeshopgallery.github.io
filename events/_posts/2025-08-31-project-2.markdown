@@ -1,0 +1,11 @@
+---
+layout: default
+title: Drawn to Music
+modal-id: 2
+date: 2025-09-02
+img: Drawn to Music.jpg
+alt: image-alt
+project-date: 2nd September 2025
+category: events
+description: Join us on Tuesday for our next improvised music and drawing session with musicians ‘Managed Decline’ who will provide off the cuff soundscapes for you to immerse into while free flow drawing, painting or writing etc. We have pens, paints and paper etc for everyone to use though you are welcome to bring your own materials. All levels welcome and we especially like to see people having a go for the first time. It’s a very informal, relaxed session that is about being in the moment and seeing where that takes you. All welcome, free entry through donations to musicians and venue are much appreciated and help keeps our events going. Hope to see you there. 
+---
