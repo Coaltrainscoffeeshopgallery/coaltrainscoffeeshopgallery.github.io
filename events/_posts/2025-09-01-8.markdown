@@ -1,0 +1,30 @@
+---
+#BEFORE YOU BEGIN, it is recommended that you make a copy of this blank file so that it is easier for you to make another post next time.
+layout: default #DO NOT TOUCH THIS
+category: events #DO NOT TOUCH THIS
+alt: image-alt #DO NOT TOUCH THIS
+title: 'Key Quest and Other Stories' David Lalande Book Launch #Put the Title Here. It will show above the picture when you click on the post
+modal-id: 8 #Put a number here. It should be the same number as the name of this file. e.g, if the file is named ####-##-##-10, you should put a 10 here.
+date: 2025-09-01 #Put the date of WHEN YOU ARE WRITING THIS POST here in the format YYYY-MM-DD
+img: Key Quest.jpg#Put the name of the image you want associated with the post here. It must be the same and must include the file name extension. E.g, Demo.jpg, Example.png
+project-date: 21st September 2025 #Put THE DATE OF THE EVENT here in whatever format you would like e.g, DD-MM-YYYY, YYYY-MM-DD, DD Month YYYY etc
+description:We are delighted to be hosting our first ever book launch for David Lalande’s self publication ‘Key Quest and Other Stories’. The Book- Dive into a world where magic meets humour in this enchanting collection of 9 short stories, perfect for readers aged 8 to 108. From dragons and gnomes to talking horses and mischievous ghosts. Each tale is a delightful mix of whimsy, satire and wonder. Get ready to laugh, dream and embark on unforgettable adventures! A bit about the author- At school David hated writing. This was due to his dyslexia and dyspraxia though he loved stories in every form. The teachers would say his head was full of sky and it was up in the clouds. Whenever he showed an interest in storey telling he was knocked down. Now formally diagnosed with autism, he has at last found the courage to get the stories out of his head and on to paper- and this book. Inspirational is the word! At Coaltrain’s love to see people exercising their creativity, especially when they go against the odds to do so. We appreciate that sometimes there may be personal hurdles in our way and we will try to help if we can. Life is a journey and the people you meet along the way can make a huge difference to your confidence and motivation and we aim to carry on that positivity where we can. Free entry, All welcome. We hope to see you there. #Put your description here. When writing the description. Do not press enter to do to a new line. Just type it out all on one line.
+---
+
+<!--   
+How to name this file so that it will work and show up on the website.
+
+To rename the file, you will have to close this down, right click and press rename. Alternatively, you may be able to go to File in the top left corner and press "save as" which will allow you to save the file with the correct name.
+
+The overall format of the file will be in the format "YYYY-MM-DD-#". Below, I will take you through a step by step process on how to name this file correctly.
+
+1)The name of the file needs to include todays date in the format "YYYY-MM-DD-" with the dashes. You may notice there is an extra dash after the "DD". This is not a typo and is needed.
+
+2)After the final dash, you will need to put a number however it needs to be a specific number. This is the hardest part to do but not very hard to do. Look at the previous posts you have made on the website and find the largest last number. For example, if I have 3 posts on the website named 2025-06-01-9, 2025-06-02-10, 2025-06-03-11, the largest last number will be 11. As the largest last number is 11, you would need to put the last number for this file as 12 (one above).
+
+3)Double check the "modal-id" in this file. It should be the same number as the number you just put at the end of this file.
+
+4)Finally, upload this file (and any relevant pictures) to the website. This file goes in the folder events/_posts. Any pictures go in the folder img/portfolio.
+
+
+-->
