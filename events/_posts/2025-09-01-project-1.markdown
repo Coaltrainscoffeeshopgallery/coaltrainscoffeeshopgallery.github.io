@@ -9,4 +9,3 @@ project-date: 6th September 2025
 category: events
 description: Join us for a morning of joyful and bittersweet songs from the streets of Paris to the beaches of Rio with a stopover in the jazz bars of New York with vocalist Helen Rita Jones, Mike Frost, Greg Eveans and Steve Konigsveld. All welcome, free entry though donations to the musicians involved is much appreciated and help keeps our live events going. Hope to see you there.
 ---
-This is a test piece of text
