@@ -30,3 +30,7 @@ View this jekyll theme in action [here](https://jeromelachaud.com/freelancer-the
 
 ---------
 For more details, read the [documentation](http://jekyllrb.com/)
+
+
+MY NOTES:
+Posts seem to be filtered by the date internal on the document. The external date seems to be mainly for when the post will show on the website.
