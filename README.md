@@ -33,4 +33,4 @@ For more details, read the [documentation](http://jekyllrb.com/)
 
 
 MY NOTES:
-Posts seem to be filtered by the date internal on the document. The external date seems to be mainly for when the post will show on the website.
+Posts seem to be filtered by the date internal on the document. This will overwrite the external date in the sense of the internal date will restrict when the post is shown. Put the internal date as the date you are posting this to the website and the project date to the actual date of the event. Also put the external date to the date you are posting this to the website
