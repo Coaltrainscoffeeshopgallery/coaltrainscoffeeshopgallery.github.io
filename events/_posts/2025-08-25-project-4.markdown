@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Coaltrain's Classical Club featuring Clarke Alonzi & friends
-modal-id: 4
 date: 2025-08-25
 img: Classical.jpg
 alt: image-alt

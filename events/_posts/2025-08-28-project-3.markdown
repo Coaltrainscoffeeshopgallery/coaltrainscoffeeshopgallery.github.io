@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Dan Edgecombe & Charlie Herbert Duo live
-modal-id: 3
 date: 2025-08-28
 img: Dan.jpg
 alt: image-alt
