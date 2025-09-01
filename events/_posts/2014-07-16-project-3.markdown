@@ -1,5 +1,6 @@
 ---
-layout: default
+layout: single_post
+modal-id: 3
 date: 2014-07-16
 img: Coaster 5.jpg
 alt: image-alt
