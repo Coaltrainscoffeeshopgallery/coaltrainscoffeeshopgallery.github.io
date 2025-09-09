@@ -1,7 +1,6 @@
 ---
 layout: default
 title: The Tremolo Shakers Live
-modal-id: 6
 date: 2025-08-06
 img: Tremolo.jpg
 alt: image-alt

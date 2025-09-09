@@ -3,7 +3,6 @@ layout: default
 category: events 
 alt: image-alt 
 title: "'Key Quest and Other Stories' David Lalande Book Launch" 
-modal-id: 8 
 date: 2025-09-01 
 img: Key Quest.jpg 
 project-date: 21st September 2025 
