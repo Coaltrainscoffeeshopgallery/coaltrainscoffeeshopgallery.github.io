@@ -14,7 +14,7 @@
             <div class="caption-content">
               <h3>{{ post.title }}</h3>
               <img src ="{{ site.baseurl }}/img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
-              <p>{{ post.date | date: "%-d %B %Y" }}</p>
+              <p>{{ post.date | date_to_long_string: "ordinal"  }}</p>
               <p>{{post.description}}</p>
 
             </div>
