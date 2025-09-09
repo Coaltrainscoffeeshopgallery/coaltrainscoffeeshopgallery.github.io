@@ -8,60 +8,32 @@
       </div>
     </div>
 
-    <h3 style="text-align: center;">Jazz Club</h3>
+<!-- Navigation Grid Section (similar to portfolio grid but not quite same) -->
+<section id="portfolio">
+  <div class="container portfolio-flex-grid">
     <div class="row">
-      <div class="col-lg-4 col-lg-offset-2">
-        <p>Coaltrain’s Jazz Club runs every Saturday rain or shine form 11am-1pm weekly.
-
-        Each week we celebrate different styles of Jazz from Swing to Be Bop, fusion to cool and contemporary played by musicians in duo to octets. 
-        It’s a hustle bustle style event that sits perfectly with the coming and goings of a lively train station. 
-
-        All welcome and entry is free though donations to the musicians involved are essential to keeping to our little Jazz Club swinging. 
-
-        We hope to see you there. (please arrive early to get a seat) 
-
-        Please note that due to health and safety we do not allow push chairs or dogs to this event.</p>
-      </div>
-      <div class="col-lg-4">
-        <p><img src="{{ site.baseurl }}/img/portfolio/Live Jazz 2.jpg" class="img-responsive"></p>
+      <div class="col-lg-12 text-center">
+        <h2>Special Events</h2>
+        <hr class="star-primary">
       </div>
     </div>
+    <div class="portfolio-flex-row">
+      {% assign sorted_posts = site.categories.regularevents | sort: "event_date" | reverse %}
+      {% for post in sorted_posts %}
+      <div class="portfolio-flex-item portfolio-item">
+          <div class="caption">
+            <div class="caption-content">
+              <h3>{{ post.title }}</h3>
+              <img src ="{{ site.baseurl }}/img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
+              <p>{{post.description}}</p>
 
-
-    <h3 style="text-align: center;">Classical Club</h3>
-    <div class="row">
-      <div class="col-lg-4 col-lg-offset-2">
-        <p><img src="{{ site.baseurl }}/img/portfolio/Classical.jpg" class="img-responsive"></p>
+            </div>
+          </div>
       </div>
-      <div class="col-lg-4">
-        <p> Coaltrain’s Classical Club runs once a month on a Sunday morning 11am-12.30pm and is an ideal way to start your Sunday. We have guest duo’s, Trio’s and Quartet’s sharing with us their favourite pieces by their favourite composers both contemporary and historic. Sometimes gentle, sometimes not so much but always delivered with passion.
-            The next Classical Club features Kirstie Miller on Cello and Christopher Fossey on Piano playing a selection of their favourite compositions from the likes of Elgar, Einaudi , Harriet Bosman and more…
-            All welcome, free entry though donations to the musicians involved is essential to keeping our little Classical Club going. </p>
-      </div>
+      {% endfor %}
     </div>
-
-    <h3 style="text-align: center;">Groove Station</h3>
-    <div class="row">
-      <div class="col-lg-4 col-lg-offset-2">
-        <p>Groove Station is our semi-regular, early evening cafe social event. Showcasing bands and DJ’s and also hosting Album and Exhibition launches.
-             We also offer snacks, Mocktails and Alcohol free beers..</p>
-      </div>
-      <div class="col-lg-4">
-        <p> <img src="{{ site.baseurl }}/img/portfolio/Groove.jpg" class="img-responsive">  </p>
-      </div>
-    </div>
-
-    <h3 style="text-align: center;">Baby Jazz</h3>
-    <div class="row">
-      <div class="col-lg-4 col-lg-offset-2">
-        <p><img src="{{ site.baseurl }}/img/portfolio/Baby.jpg" class="img-responsive"></p>
-      </div>
-      <div class="col-lg-4">
-        <p> Every Thursday morning from 10am-12:30pm we invite parents and babies to come along and listen to some nice chilled Jazz tunes. To entertain the kids while you chat or chill. This is a nice easy going event that occasionally features live musicians. It's a great way to meet like minded parents and introduce your kids to music in a chilled social setting. All welcome, free entry.</p>
-      </div>
-    </div>
-
-
+  </div>
+</section>
 
   </div>
 </section>

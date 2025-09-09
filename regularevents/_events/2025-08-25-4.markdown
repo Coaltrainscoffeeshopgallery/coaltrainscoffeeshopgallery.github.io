@@ -1,0 +1,11 @@
+---
+layout: default
+title: Baby Jazz
+date: 2025-08-25
+event_date: 2025-08-31
+img: Baby.jpg
+alt: image-alt
+project-date: 31st August 2025
+category: events
+description: Every Thursday morning from 10am-12:30pm we invite parents and babies to come along and listen to some nice chilled Jazz tunes. To entertain the kids while you chat or chill. This is a nice easy going event that occasionally features live musicians. It's a great way to meet like minded parents and introduce your kids to music in a chilled social setting. All welcome, free entry.
+---

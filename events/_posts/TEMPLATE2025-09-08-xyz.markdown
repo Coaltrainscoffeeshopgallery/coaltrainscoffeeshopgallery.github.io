@@ -9,7 +9,7 @@ date: #Put the date of WHEN YOU ARE WRITING THIS POST here in the format YYYY-MM
 event_date: #Put the DATE OF THE EVENT here in the format YYYY-MM-DD
 img: #Put the name of the image you want associated with the post here. It must be the same and must include the file name extension. E.g, Demo.jpg, Example.png
 project-date: #Put THE DATE OF THE EVENT here in whatever format you would like e.g, DD-MM-YYYY, YYYY-MM-DD, DD Month YYYY etc
-description: #Put your description here. When writing the description. Do not press enter to do to a new line. Just type it out all on one line.
+description: #Put your description here.
 ---
 
 <!--   
