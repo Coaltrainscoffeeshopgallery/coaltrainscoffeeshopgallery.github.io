@@ -8,7 +8,7 @@
       </div>
     </div>
     <div class="portfolio-flex-row">
-      {% assign sorted_posts = site.categories.events | sort: "event_date" %}
+      {% assign sorted_posts = site.categories.events | sort: "event_date" | reverse %}
       {% for post in sorted_posts %}
       <div class="portfolio-flex-item portfolio-item">
           <div class="caption">
