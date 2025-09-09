@@ -5,7 +5,7 @@ date: 2025-08-06
 img: Live Jazz 2.jpg
 alt: image-alt
 project-date: 2nd October 2025
-category: events
+category: regularevents
 description: Coaltrain’s Jazz Club runs every Saturday rain or shine form 11am-1pm weekly.
 
         Each week we celebrate different styles of Jazz from Swing to Be Bop, fusion to cool and contemporary played by musicians in duo to octets. 
