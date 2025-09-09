@@ -2,7 +2,6 @@
 layout: default
 title: Classical Club
 date: 2025-08-06
-event_date: 2025-08-28
 img: Classical.jpg
 alt: image-alt
 project-date: 28th August 2025

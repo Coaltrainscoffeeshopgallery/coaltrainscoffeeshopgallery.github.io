@@ -2,7 +2,6 @@
 layout: default
 title: Jazz Club
 date: 2025-08-06
-event_date: 2025-10-02
 img: Live Jazz 2.jpg
 alt: image-alt
 project-date: 2nd October 2025

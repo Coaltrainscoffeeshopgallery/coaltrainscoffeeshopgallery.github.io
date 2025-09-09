@@ -2,7 +2,6 @@
 layout: default
 title: Baby Jazz
 date: 2025-08-25
-event_date: 2025-08-31
 img: Baby.jpg
 alt: image-alt
 project-date: 31st August 2025
