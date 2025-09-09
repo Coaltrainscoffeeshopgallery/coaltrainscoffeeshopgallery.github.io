@@ -4,6 +4,7 @@ category: events
 alt: image-alt 
 title: Groove Station 
 date: 2025-09-08
+event_date: 2025-09-25
 img: Destan.jpg 
 project-date: 25th September 2025 
 description: Live Turkish Folk with Destan Dönemi. Destan Dönemi is a Turkish folk duo featuring the vocalist and flautist Büşra Algeç, alongside fingerstyle guitarist Evan Graham. Their music blends the timeless sounds of Turkish folk with modern acoustic elements, creating a unique and emotive experience, building a bridge between Eastern and Western musical traditions. Destan Dönemi invites listeners on a journey of musical discovery, offering a fresh and dynamic perspective on the rich tapestry of Turkish folk music. All welcome, free entry though donations to the musicians involved is much appreciated and essential to keep our live going. Hope to see you there.

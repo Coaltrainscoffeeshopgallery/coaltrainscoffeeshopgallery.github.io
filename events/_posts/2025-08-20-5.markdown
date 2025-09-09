@@ -2,6 +2,7 @@
 layout: default
 title: Cameron Saint Trio Live
 date: 2025-08-20
+event_date: 2025-08-23
 img: Cameron.jpg
 alt: image-alt
 project-date: 23rd August 2025

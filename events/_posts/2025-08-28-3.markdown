@@ -2,6 +2,7 @@
 layout: default
 title: Dan Edgecombe & Charlie Herbert Duo live
 date: 2025-08-28
+event_date: 2025-08-30
 img: Dan.jpg
 alt: image-alt
 project-date: 30th August 2025

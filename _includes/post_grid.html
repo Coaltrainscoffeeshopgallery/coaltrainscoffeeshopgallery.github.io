@@ -8,13 +8,14 @@
       </div>
     </div>
     <div class="portfolio-flex-row">
+      {% assign posts = site.categories.events | sort: 'event_date' | reverse %}
       {% for post in site.categories.events %}
       <div class="portfolio-flex-item portfolio-item">
           <div class="caption">
             <div class="caption-content">
               <h3>{{ post.title }}</h3>
               <img src ="{{ site.baseurl }}/img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
-              <p>{{ post.date | date_to_long_string: "ordinal"  }}</p>
+              <p>{{ post.event_date | date_to_long_string: "ordinal"  }}</p>
               <p>{{post.description}}</p>
 
             </div>
