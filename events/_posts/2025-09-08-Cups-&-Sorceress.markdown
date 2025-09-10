@@ -23,6 +23,6 @@ Please note this is a ticket only event.
 Follow the link to purchase you tickets.
 Hope to see you there. 
 
-[Eventbrite Link](https://www.eventbrite.co.uk/e/cups-sorceress-the-art-of-reading-tea-leaves-tickets-1578217273349?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl)
+https://www.eventbrite.co.uk/e/cups-sorceress-the-art-of-reading-tea-leaves-tickets-1578217273349?utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl
 
 ---
