@@ -5,14 +5,14 @@ date: 2025-08-06
 img: Live Jazz 2.jpg
 alt: image-alt
 category: regularevents
-description: Coaltrain’s Jazz Club runs every Saturday rain or shine form 11am-1pm weekly.
+description: "Coaltrain’s Jazz Club runs every Saturday rain or shine form 11am-1pm weekly.
 
-        Each week we celebrate different styles of Jazz from Swing to Be Bop, fusion to cool and contemporary played by musicians in duo to octets. 
-        It’s a hustle bustle style event that sits perfectly with the coming and goings of a lively train station. 
+Each week we celebrate different styles of Jazz from Swing to Be Bop, fusion to cool and contemporary played by musicians in duo to octets. 
+It’s a hustle bustle style event that sits perfectly with the coming and goings of a lively train station. 
 
-        All welcome and entry is free though donations to the musicians involved are essential to keeping to our little Jazz Club swinging. 
+All welcome and entry is free though donations to the musicians involved are essential to keeping to our little Jazz Club swinging. 
 
-        We hope to see you there. (please arrive early to get a seat) 
+We hope to see you there. (please arrive early to get a seat) 
 
-        Please note that due to health and safety we do not allow push chairs or dogs to this event.
+Please note that due to health and safety we do not allow push chairs or dogs to this event."
 ---
