@@ -68,3 +68,5 @@ defaults:
       permalink: ""
 
 baseurl: ""
+
+future: true
