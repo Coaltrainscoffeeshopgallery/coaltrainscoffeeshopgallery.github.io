@@ -17,7 +17,7 @@ She encourages visitors to reflect on music’s ability to bring people together
 
 Music is presented here as a universal language that reminds us of our shared humanity.
 
-The 'Sensation of Music' exhibition launch is on Thursday 9th October 5.30pm-8.30pm and runs until Saturday 9th November. 
+The Sensation of Music exhibition launch is on Thursday 9th October 5.30pm-8.30pm and runs until Saturday 9th November. 
 
 Free entry, all welcome.
 
