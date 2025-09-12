@@ -2,7 +2,7 @@
 layout: default
 category: events
 alt: image-alt
-title: 'The Sensation of Music' Jade Roach Exhibition Launch
+title: "'The Sensation of Music' Jade Roach Exhibition Launch"
 date: 2025-09-12
 event_date: 2025-10-09
 img: Sensation of Music.jpg
