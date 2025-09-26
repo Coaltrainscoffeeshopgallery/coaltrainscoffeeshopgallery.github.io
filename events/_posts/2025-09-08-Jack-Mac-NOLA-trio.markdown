@@ -1,0 +1,23 @@
+---
+layout: default #DO NOT TOUCH THIS
+category: events #DO NOT TOUCH THIS
+alt: no-image.png #DO NOT TOUCH THIS
+title: "Jack Mac NOLA trio"
+date: 2025-09-26
+event_date: 2025-10-04
+img: #Put the name of the image you want associated with the post here. It must be the same and must include the file name extension. E.g, Demo.jpg, Example.png
+project-date: 4th October 2025
+description: #Put your description here.
+---
+
+<!--   
+How to rename this file so that it will work and show up on the website.
+
+To rename the file, you will have to close this down, right click and press rename.
+
+1) To name the file correctly, remove the TEMPLATE from the beginning of the file name and change the xyz at the end of the file name to a word of your chosing. If you want to write multiple words, you must either not include spaces between the words or use a - instead of a space (e.g, 2025-09-08-pineapplepizza or 2025-09-08-pineapple-pizza).
+
+2)Upload this file (and any relevant pictures) to the website. This file goes in the folder events/_posts. Any pictures go in the folder img/portfolio.
+
+
+-->
