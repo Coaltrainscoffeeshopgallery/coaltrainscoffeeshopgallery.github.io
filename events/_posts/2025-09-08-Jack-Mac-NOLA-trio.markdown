@@ -1,11 +1,11 @@
 ---
 layout: default #DO NOT TOUCH THIS
 category: events #DO NOT TOUCH THIS
-alt: no-image.png #DO NOT TOUCH THIS
+alt: image-alt #DO NOT TOUCH THIS
 title: "Jack Mac NOLA trio"
 date: 2025-09-26
 event_date: 2025-10-04
-img: #Put the name of the image you want associated with the post here. It must be the same and must include the file name extension. E.g, Demo.jpg, Example.png
+img: no-image.png #Put the name of the image you want associated with the post here. It must be the same and must include the file name extension. E.g, Demo.jpg, Example.png
 project-date: 4th October 2025
 description: #Put your description here.
 ---
