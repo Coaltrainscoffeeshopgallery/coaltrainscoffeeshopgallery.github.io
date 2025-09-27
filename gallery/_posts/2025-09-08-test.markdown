@@ -8,7 +8,7 @@ title: Test #Put the Title Here. It will show above the picture of the post
 date: 2025-09-27 #Put the date of WHEN YOU ARE WRITING THIS POST here in the format YYYY-MM-DD
 artwork_completion_date: 2025-09-27 #Put the DATE OF THE COMPLETION OF THE ARTWORK here in the format YYYY-MM-DD
 modal-id: 1 #Put the artwork completion date here but remove the dashed in between (YYYYMMDD)
-img: no-image.jpg #Put the name of the image you want associated with the post here. It must be the same and must include the file name extension. E.g, Demo.jpg, Example.png
+img: no-image.png #Put the name of the image you want associated with the post here. It must be the same and must include the file name extension. E.g, Demo.jpg, Example.png
 project-date: 2025 09 27 #Put THE DATE OF THE ARTWORK COMPLETION here in whatever format you would like e.g, DD-MM-YYYY, YYYY-MM-DD, DD Month YYYY etc
 description: Test Piece #Put your description here.
 ---
