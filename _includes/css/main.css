@@ -73,7 +73,7 @@ hr.star-primary {
 
 hr.star-primary:after {
     color: #{{ site.color.secondary }};
-    background-color: #9B9685;
+    background-color: #5C916B;
 }
 
 .img-centered {
